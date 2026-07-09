@@ -11,7 +11,10 @@ int main()
  cout << "Masukkan Lebar : ";
  cin >> lebar;
 
- 
+
  luas = panjang * lebar;
+
+ cout << "Hasilanya : " << luas;
+ 
 
 }
