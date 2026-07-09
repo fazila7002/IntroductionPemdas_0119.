@@ -9,4 +9,6 @@ int main()
  cin >> panjang;
 
  cout << "Masukkan Lebar : ";
+ cin >> lebar;
+ 
 }
