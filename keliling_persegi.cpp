@@ -4,5 +4,6 @@ using namespace std;
 int main()
 {
  int luas, panjang, lebar;
- 
+
+ cout <<"Masukkan Panjang : ";
 }
