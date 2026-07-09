@@ -7,4 +7,6 @@ int main()
 
  cout <<"Masukkan Panjang : ";
  cin >> panjang;
+
+ cout << "Masukkan Lebar : ";
 }
